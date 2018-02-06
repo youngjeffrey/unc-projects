@@ -14,3 +14,9 @@ The Quick Edit Tool was a similar project to Paint Tool. It is an image editing 
 adjusting the saturation, blur, and darkness slider. It also allows for the picture to be divided into tiles and shifted around. 
 The program incorporates observables and observers, JFrame, and mouse listener. To see all the features of the program, run
 FramePuzzle.java, ImageAdjuster.java, and PixelInspector.java. 
+
+_Linked List_
+
+The Linked List was my own written implementation of the doubly linked list. It allows for nodes to be easily added and removed 
+from the list with the usage of the Node class to access the next and previous nodes. To run the program, run LinkedListPlayground
+and tinker with it as you wish. 
