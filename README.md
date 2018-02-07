@@ -18,5 +18,5 @@ FramePuzzle.java, ImageAdjuster.java, and PixelInspector.java.
 _Linked List_
 
 The Linked List was my own written implementation of the doubly linked list. It allows for nodes to be easily added and removed 
-from the list with the usage of the Node class to access the next and previous nodes. To run the program, run LinkedListPlayground
-and tinker with it as you wish. 
+from the list with the usage of the Node class to access the next and previous nodes. I wrote the LinkedListImpl, everything else
+was default code written by the instructor. To run the program, run LinkedListPlayground and tinker with it as you wish. 
