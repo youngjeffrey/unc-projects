@@ -20,3 +20,10 @@ _Linked List_
 The Linked List was my own written implementation of the doubly linked list. It allows for nodes to be easily added and removed 
 from the list with the usage of the Node class to access the next and previous nodes. I wrote the LinkedListImpl, everything else
 was default code written by the instructor. To run the program, run LinkedListPlayground and tinker with it as you wish. 
+
+_Binary Search Tree_
+
+The Binary Search Tree was a version of the Binary Search Tree that I wrote. It allows for the insertion and removal of nodes as well
+as methods to find the maximum and minimum value and the height of the tree. Usually the node would have an integer value but in this
+version each node has a string value so String Compare was frequently used to compare which string is bigger or smaller. I wrote the 
+BST_Node and BST classes, the rest was default code written by the instructor. 
