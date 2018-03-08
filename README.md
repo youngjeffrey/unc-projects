@@ -27,3 +27,10 @@ The Binary Search Tree was a version of the Binary Search Tree that I wrote. It 
 as methods to find the maximum and minimum value and the height of the tree. Usually the node would have an integer value but in this
 version each node has a string value so String Compare was frequently used to compare which string is bigger or smaller. I wrote the 
 BST_Node and BST classes, the rest was default code written by the instructor. 
+
+_Minimum Binary Heap_
+
+The Minimum Binary Heap was an implementation of the priority queue where the object with the lowest numerical value was at the top of 
+the priority. It allows for insertions of new objects and constantly sorts so that the parent will always have a lower value than the
+childs'. The objects are also stored in an array and swapping takes place when the order is incorrect. I wrote the MinBinHeap class 
+while the rest was default code provided by the instructor.
