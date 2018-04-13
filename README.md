@@ -15,6 +15,12 @@ adjusting the saturation, blur, and darkness slider. It also allows for the pict
 The program incorporates observables and observers, JFrame, and mouse listener. To see all the features of the program, run
 FramePuzzle.java, ImageAdjuster.java, and PixelInspector.java. 
 
+_Artificial Intelligence Website_
+
+This is a website about Artificial intelligence in healthcare. It is for the final project for my Comp 380 (Computers and Society)
+class. It incorporates HTML and CSS. The website is currently in development; more content will be added and the backend will be
+implemented with PHP and MySQL.
+
 _Linked List_
 
 The Linked List was my own written implementation of the doubly linked list. It allows for nodes to be easily added and removed 
