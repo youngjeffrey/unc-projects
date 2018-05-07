@@ -18,8 +18,7 @@ FramePuzzle.java, ImageAdjuster.java, and PixelInspector.java.
 _Artificial Intelligence Website_
 
 This is a website about Artificial intelligence in healthcare. It is for the final project for my Comp 380 (Computers and Society)
-class. It incorporates HTML and CSS. The website is currently in development; more content will be added and the backend will be
-implemented with PHP and MySQL.
+class. It incorporates HTML and CSS as the front end. I incorporated a quiz in the website and that includes basic PHP as the backend.
 
 _Linked List_
 
