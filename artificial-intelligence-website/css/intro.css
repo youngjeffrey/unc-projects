@@ -1,0 +1,165 @@
+body {background-image:url("ai-and-global-security-hero-allen.jpg");
+        background-repeat: no-repeat;
+        background-size:cover;
+}
+
+header {
+        font-weight: bold;
+        font-size: 50px;
+        font-family: "Impact", Times, serif;
+        text-align: left;
+        text-indent: 60px;
+        padding: 5px;
+}
+
+header span {
+    background: rgba(199, 199, 199, 0.7);
+}
+
+.definition {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    color: white;
+}
+
+.definition2 {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    color: white;
+    text-indent: 70px;
+}
+
+.container {
+    width: 90%;
+    height: 500px;
+    background: rgba(199, 199, 199, 0.7);
+    margin: auto;
+    padding: 10px;
+}
+
+.btn-group button {
+    background: rgba(199, 199, 199, 0.7);
+    border: 3px black; /* Green border */
+    color: white; /* White text */
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+
+.btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.btn-group button:hover {
+    background-color:darkgrey;
+}
+
+.one {
+    width: 50%;
+    height: 500px;
+    background: rgba(199, 199, 199, 0.7);
+    float: left;
+    text-align: left;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 16px;
+    color:black;
+    padding-left: 10px;
+}
+.two {
+    margin-left: 50%;
+    height: 500px;
+    background: rgba(199, 199, 199, 0.7);
+    padding-left: 20px;
+}
+
+.left {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.timeline {
+    width: 90%;
+    height: 500px;
+    background: rgba(199, 199, 199, 0.7);
+    margin: auto;
+    padding: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.history {
+        height: 500px;
+        background: rgba(199, 199, 199, 0.7);
+        float: left;
+    text-align: left;
+    text-indent: 20px;
+    font-family: "Optima", Times, serif;
+    font-size: 18px;
+    width: 100%;
+}
+
+.reasons {
+    width: 90%;
+    height: 500px;
+    background: rgba(199, 199, 199, 0.7);
+    margin: auto;
+    padding: 10px;
+}
+
+.why {
+        height: 500px;
+        background: rgba(199, 199, 199, 0.7);
+        float: left;
+    text-align: left;
+    text-indent: 20px;
+    font-family: "Optima", Times, serif;
+    font-size: 18px;
+    width: 100%;
+}
+
+
+.center img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+h1 {
+    text-indent: 140px;
+}
+
+.ending button {
+    background: rgba(199, 199, 199, 0.7);
+    border: 3px black; /* Green border */
+    color: white; /* White text */
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+
+.ending button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+
+.ending:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.ending button:hover {
+    background-color:darkgrey;
+}

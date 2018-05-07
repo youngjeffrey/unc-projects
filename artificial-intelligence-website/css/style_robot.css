@@ -1,0 +1,158 @@
+body {background-image:url("ai-and-global-security-hero-allen.jpg");
+        background-repeat: no-repeat;
+        background-size:cover;
+}
+
+header {
+        font-weight: bold;
+        font-size: 50px;
+        font-family: "Impact", Times, serif;
+        text-align: left;
+        text-indent: 60px;
+        padding: 5px;
+}
+
+header span {
+    background: rgba(199, 199, 199, 0.7);
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 190px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.reasons {
+    width: 90%;
+    height: 1550px;
+    background: rgba(199, 199, 199, 0.7);
+    margin: auto;
+    padding: 10px;
+}
+
+.why {
+        height: 550px;
+        background: rgba(199, 199, 199, 0.7);
+        float: left;
+    text-align: center;
+    text-indent: 20px;
+    font-family: "Optima", Times, serif;
+    font-size: 18px;
+    width: 100%;
+}
+
+.suggestions {
+        height: 550px;
+        background: rgba(199, 199, 199, 0.7);
+        float: left;
+    text-align: left;
+    text-indent: 20px;
+    font-family: "Optima", Times, serif;
+    font-size: 18px;
+    width: 100%;
+}
+
+.medical {
+            height: 420px;
+        background: rgba(199, 199, 199, 0.7);
+        float: left;
+    text-align: left;
+    text-indent: 20px;
+    font-family: "Optima", Times, serif;
+    font-size: 18px;
+    width: 100%;
+}
+
+.header2 {
+    text-align: center;
+}
+
+.center img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+h1 {
+    text-indent: 140px;
+}
+
+.ending button {
+    background: rgba(199, 199, 199, 0.7);
+    border: 3px black; /* Green border */
+    color: white; /* White text */
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+
+.ending button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+
+.ending:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.ending button:hover {
+    background-color:darkgrey;
+}
