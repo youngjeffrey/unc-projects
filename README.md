@@ -19,6 +19,7 @@ _Artificial Intelligence Website_
 
 This is a website about Artificial intelligence in healthcare. It is for the final project for my Comp 380 (Computers and Society)
 class. It incorporates HTML and CSS as the front end. I incorporated a quiz in the website and that includes basic PHP as the backend.
+All the CSS files are in CSS folders and all the HTML and PHP files are in the Templates folder.
 
 _Linked List_
 
