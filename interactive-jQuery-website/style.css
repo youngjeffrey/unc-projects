@@ -1,0 +1,88 @@
+body {
+    background-color: antiquewhite;
+}
+
+section {
+    background-color:lightblue;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+}
+
+nav {
+    background-color:antiquewhite;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      15px;
+}
+
+button {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    font: 17px arial, sans-serif;
+}
+
+button:hover {
+    background-color: #f1f1f1;
+}
+
+.question {
+    margin-left: 10%;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      15px;
+    font-weight:    bold;
+    margin-top: 2%;
+}
+
+.questions-title {
+    margin-left: 10%;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      35px;
+    font-weight:    bold;
+}
+
+.header-container {
+    text-align: center;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      15px;
+    font-weight:    bold;
+}
+
+.textarea {
+    width: 35%;
+}
+
+.questions-container {
+    height: 450px;
+    overflow-y: auto;
+}
+
+#myInput {
+   margin-left: 10%; 
+    font-size: 15px;
+    line-height: 30px;
+    padding: 5px 5px;
+}
+
+.string-search {
+    margin-left: 10%;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      15px;
+    font-weight:    bold;
+}
+
+.hide {
+    width: 120px;  
+    height: 60px;
+}
+
+.alpha {
+    margin-left: 10%;
+}
