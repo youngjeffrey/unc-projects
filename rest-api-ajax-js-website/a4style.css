@@ -1,0 +1,60 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+
+h1 {
+    color: blueviolet;
+    background-color: antiquewhite;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#login_div {
+    text-align: center;
+}
+
+.header-container {
+    background-color: azure;
+}
+
+div {
+    background-color: antiquewhite;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.button-container {
+    margin-left: auto;
+}
+
+.title {
+    background-color: antiquewhite;
+}
+
+.button {
+    display: block;
+}
+
+#loginButton {
+    background-color: lightblue; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input {
+    width: 40%;
+    height: 30px;
+    padding: 5px 5px;
+}
+
+.questions-container {
+    height: 450px;
+    overflow-y: auto;
+}
